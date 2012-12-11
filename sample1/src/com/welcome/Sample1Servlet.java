@@ -6,8 +6,9 @@ import javax.servlet.http.*;
 public class Sample1Servlet extends HttpServlet {
 	public void doGet(HttpServletRequest req, HttpServletResponse resp) throws IOException {
 		resp.setContentType("text/plain");
-		resp.getWriter().println("Hello, world");
+		resp.getWriter().println("Mwuuahhhaaaahahahahaha!!!!!!!");
 	}
 	//test by srk1
 	//test by srk2
+	// !@#$%^&*( by s3r :)
 }
